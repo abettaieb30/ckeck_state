@@ -1,0 +1,65 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card 
+{border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  width: 30%;
+  border:solid teal 2px;
+  text-align: center;
+  margin: auto;
+  margin-top: 100px;
+  background-image: url('https://cdn.dribbble.com/users/4313636/screenshots/9524935/media/c80f5aa996e1c948337da3ff4b86f92a.png?compress=1&resize=768x576&vertical=top');
+}
+
+.mypic{
+  margin-right: 0%;
+  margin-right: 0%;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  border: solid teal 2px;
+}
+.icons
+{background-color: whitesmoke;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+ width: 100%;
+ height: 20%;
+ border: solid royalblue 1px;
+ border-radius: 20px;
+}
+   .item
+   {padding: 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    border: solid teal 2px;
+   }
+.btn{
+  margin-top: 100px;
+  background-color: transparent;
+  width: 500px;
+  height: 100px;
+  border-radius: 50px;
+ font-size: xx-large;
+ font-weight: bolder;
+
+}
+
+.btn:hover{
+  background-color:rgb(233, 21, 21);
+}
+html{
+  background-image: url('https://img5.goodfon.com/wallpaper/nbig/a/83/bumaga-fon-kraski-colorful-akvarel-texture-background-pape-6.jpg');
+
+background-repeat: no-repeat;
+background-size:cover ;
+}
